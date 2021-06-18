@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CHEEESEGROMIT
+- 👀 I’m interested in Game Development and Hacking
+- 🌱 I’m currently learning C# and working on a top down 2D game and a portable hacking system
+- 💞️ I’m looking to collaborate on projects that can further my reasearch
+- 📫 How to reach me: U can't :( sorry
